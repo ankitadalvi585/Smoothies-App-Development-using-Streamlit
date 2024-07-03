@@ -10,4 +10,5 @@ Customized Smoothie Orders page:
 ![image](https://github.com/ankitadalvi585/melanies_smoothies/assets/115281341/1e660cb4-fa1a-4ba3-a6cd-6beef1e6fb3e)
 
 Pending Smoothie Orders page:
+
 ![image](https://github.com/ankitadalvi585/melanies_smoothies/assets/115281341/5dcf3ac7-aec0-4a9a-845f-1e697e5c4102)
